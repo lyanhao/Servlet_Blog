@@ -1,0 +1,23 @@
+package liyanhao.util;
+
+public interface Constant {
+
+    String DB_ERROR_CODE = "500_DB";
+
+    String JSON_ERROR_CODE = "500_JSON";
+
+    String QUERY_USER_ERROR_CODE = "500_QUERY";
+
+    String USER_NULL_ERROR_CODE = "500_USER";
+
+    String INSERT_ARTICLE_ERROR_CODE = "500_INSERT";
+
+    String SELECT_ARTICLELIST_ERROR_CODE = "500_SELECTLIST";
+
+    String SELECT_ARTICLEDETAIL_ERROR_CODE = "500_SELECTDETAIL";
+
+    String UPDATE_ARTICLE_ERROR_CODE = "500_UPDATE";
+
+    String DELETE_ARTICLE_ERROR_CODE = "500_DELETE";
+
+}
