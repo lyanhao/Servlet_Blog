@@ -33,7 +33,7 @@
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
-            <version>1.2.3</version>
+            <version>1.2.13</version>
         </dependency>
         <!-- Lombok: 自动插入编辑器并构建工具，以注解的方式，简化一些模版代码的编写，
                     如getter/setter方法、equals/hashcode方法、toString方法等-->
